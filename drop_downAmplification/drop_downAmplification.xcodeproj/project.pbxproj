@@ -360,7 +360,7 @@
 				DEVELOPMENT_TEAM = 5T7P6K46PF;
 				INFOPLIST_FILE = drop_downAmplification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wyz.swift01;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bigcatbrother;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -373,7 +373,7 @@
 				DEVELOPMENT_TEAM = 5T7P6K46PF;
 				INFOPLIST_FILE = drop_downAmplification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wyz.swift01;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bigcatbrother;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
